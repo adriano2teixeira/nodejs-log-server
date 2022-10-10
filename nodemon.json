@@ -1,0 +1,5 @@
+{
+  "fileExec": {
+    "ts": "sucrase-node"
+  }
+}
